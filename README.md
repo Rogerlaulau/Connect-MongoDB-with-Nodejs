@@ -1,7 +1,4 @@
 # How to Connect MongoDB with Node.js Using Mongoose
-Tutorial https://www.section.io/engineering-education/nodejs-mongoosejs-mongodb/
-
-Extra tutorial: https://www.youtube.com/watch?v=vjf774RKrLc but the cloud servie is outdated
 
 Mongoose Document: https://mongoosejs.com/docs/guide.html
 
@@ -13,7 +10,7 @@ Mongoose Document: https://mongoosejs.com/docs/guide.html
 
 * Add Basic Auth with express-basic-auth https://www.npmjs.com/package/express-basic-auth
 
-* Either run MongoDB locally or in cloud
+* Either running MongoDB locally or in cloud
 ---
 
 ## run MongoDB locally
